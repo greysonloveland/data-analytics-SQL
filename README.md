@@ -18,15 +18,22 @@ The project consists of some simple data querying using SQL, where I demonstrate
 <p align="center">
 Code for SQL Movie Analysis<br/>
 <br />
-<img src="https://i.imgur.com/K9tkiWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ypaDcJC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FPth5Bi.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ztdhst9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
-Using the between function<br/>
+ 
+Using the between function and a subquery<br/>
 <br />
-<img src="https://i.imgur.com/6ymUH8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/AlC8ngQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0h0IPLm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/90OLJHn.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 
+
+Using the aggregate functions<br/>
+<br />
+<img src="https://i.imgur.com/OymD3G6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EpmjWdV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
 
 <!--
