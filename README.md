@@ -15,7 +15,7 @@ The project consists of some simple data querying using SQL, where I demonstrate
 
 <h2>Project Code:</h2>
 
-<p align="center">
+<p align="Left">
 Code for SQL Movie Analysis<br/>
 <br />
 <img src="https://i.imgur.com/FPth5Bi.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -31,7 +31,7 @@ Using the between function and a subquery<br/>
 
 Using the aggregate functions<br/>
 <br />
-<img src="https://i.imgur.com/OymD3G6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OymD3G6.png" height="50%" width="55%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/EpmjWdV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
