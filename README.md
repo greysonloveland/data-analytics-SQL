@@ -21,6 +21,11 @@ Code for SQL Movie Analysis<br/>
 <img src="https://i.imgur.com/K9tkiWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ypaDcJC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
+Using the between function<br/>
+<br />
+<img src="https://i.imgur.com/6ymUH8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AlC8ngQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
 
 </p>
 
